@@ -49,3 +49,20 @@ I'm using Picsum Photos API to get random images:
 You can use any email that looks valid (like test@gmail.com) and any password that meets the requirements (like Password123!).
 
 ---
+
+## How to run
+
+1. Get the dependencies:
+   ```
+   flutter pub get
+   ```
+
+2. Run the app:
+   ```
+   flutter run
+   ```
+
+3. To build APK:
+   ```
+   flutter build apk --release
+   ```
