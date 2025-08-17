@@ -1,4 +1,3 @@
-# Findoc App
 
 This is my Flutter app for the Findoc assignment. It has two main screens - a login page and a home page that shows photos from an API.
 
